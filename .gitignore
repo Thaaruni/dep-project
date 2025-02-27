@@ -1,4 +1,4 @@
 .idea/
 .parcel-cache/
-mode_modules/
+node_modules/
 *.iml
