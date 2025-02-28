@@ -5,9 +5,11 @@
   "scripts": {
     "start": "parcel",
     "clean": "rm -rf dist",
-    "build": "npm run clean && parcel build --dist-dir docs --public-url /dep13-final-project/public url"
+    "build": "npm run clean && parcel build --dist-dir docs --public-url /dep-project/"
   },
   "devDependencies": {
     "parcel": "^2.13.3"
   }
 }
+
+
